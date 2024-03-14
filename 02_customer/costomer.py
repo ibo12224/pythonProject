@@ -1,7 +1,7 @@
 import re
 custlist=[]
 page=-1
-
+# 123421412412312341
 while True:
     choice=input('''
     다음 중에서 하실 일을 골라주세요 :
