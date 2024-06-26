@@ -1,2 +1,8 @@
 __pycache__/
 notebook/
+pub/
+flasktest/
+01_basic/
+02_customer/
+03_pandas/
+04_ml/
